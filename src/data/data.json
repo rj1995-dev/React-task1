@@ -1,0 +1,54 @@
+[
+  {
+    "id": 1,
+    "offer": "GET 20% OFF",
+    "category": "./images/veglogo.jpg",
+    "quality": "Fresh",
+    "product": "Onion/Vulligadda",
+    "productImage": "./images/onion.jpg",
+    "priceDrop": ["500g - Rs 13.00", "1kg - Rs 26.00", "1.5kg - Rs 39.00"],
+    "actualPrice": "Rs 16.25",
+    "currentPrice": "Rs 13",
+    "sDelivery": "Tomorrow Evening",
+    "eDelivery": "Out of stock"
+  },
+  {
+    "id": 2,
+    "offer": "GET 20% OFF",
+    "category": "./images/veglogo.jpg",
+    "quality": "Fresh",
+    "product": "Tomato - Local",
+    "productImage": "./images/tomato.jpg",
+    "priceDrop": ["500g - Rs 23.00", "1kg - Rs 46.00", "1.5kg - Rs 69.00"],
+    "actualPrice": "Rs 28.75",
+    "currentPrice": "Rs 23",
+    "sDelivery": "Tomorrow Evening",
+    "eDelivery": "Out of stock"
+  },
+  {
+    "id": 3,
+    "offer": "GET 20% OFF",
+    "category": "./images/veglogo.jpg",
+    "quality": "Fresh",
+    "product": "Potato/aloo",
+    "productImage": "./images/potato.jpeg",
+    "priceDrop": ["500g - Rs 12.00", "1kg - Rs 24.00", "1.5kg - Rs 34.00"],
+    "actualPrice": "Rs 16",
+    "currentPrice": "Rs 12",
+    "sDelivery": "Tomorrow Evening",
+    "eDelivery": "Out of stock"
+  },
+  {
+    "id": 1,
+    "offer": "GET 20% OFF",
+    "category": "./images/veglogo.jpg",
+    "quality": "Fresh",
+    "product": "Ladies Finger",
+    "productImage": "./images/onion.jpg",
+    "priceDrop": ["500g - Rs 10.00", "1kg - Rs 20.00", "1.5kg - Rs 30.00"],
+    "actualPrice": "Rs 12.25",
+    "currentPrice": "Rs 10",
+    "sDelivery": "Tomorrow Evening",
+    "eDelivery": "Out of stock"
+  }
+]
